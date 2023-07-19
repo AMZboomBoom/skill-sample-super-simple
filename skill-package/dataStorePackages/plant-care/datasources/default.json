@@ -1,0 +1,92 @@
+{
+    "dataArray": [
+        {
+            "cat": "UNKNOWN",
+            "url": "https://i.ibb.co/2kdMVcr/ic-help-144dp.png"
+        },
+        {
+            "cat": "Local",
+            "url": "https://i.ibb.co/WKnLFkw/ic-back-to-map-144dp.png"
+        },
+        {
+            "cat": "Education & Reference",
+            "url": "https://i.ibb.co/qWLn1R7/ic-book-144dp.png"
+        },
+        {
+            "cat": "Connected Car",
+            "url": "https://i.ibb.co/QXTDgzX/ic-by-car-144dp.png"
+        },
+        {
+            "cat": "Kids",
+            "url": "https://i.ibb.co/XksyYRt/ic-celebration-144dp.png"
+        },
+        {
+            "cat": "Social",
+            "url": "https://i.ibb.co/SPSHNt1/ic-contact-group-144dp.png"
+        },
+        {
+            "cat": "Food & Drink",
+            "url": "https://i.ibb.co/DwY7MCL/ic-food-144dp.png"
+        },
+        {
+            "cat": "Games & Trivia",
+            "url": "https://i.ibb.co/k9Lmxyk/ic-game-controller-144dp.png"
+        },
+        {
+            "cat": "Health & Wellness",
+            "url": "https://i.ibb.co/Ws4822Y/ic-health-144dp.png"
+        },
+        {
+            "cat": "Novelty & Humor",
+            "url": "https://i.ibb.co/H2yWV7r/ic-jokes-144dp.png"
+        },
+        {
+            "cat": "Business & Finance",
+            "url": "https://i.ibb.co/6yfmTsv/ic-money-144dp.png"
+        },
+        {
+            "cat": "Movies & TV",
+            "url": "https://i.ibb.co/tCYCZDw/ic-movie-144dp.png"
+        },
+        {
+            "cat": "Music & Audio",
+            "url": "https://i.ibb.co/NpKPzbh/ic-music-144dp.png"
+        },
+        {
+            "cat": "News",
+            "url": "https://i.ibb.co/9WmTpcj/ic-news-144dp.png"
+        },
+        {
+            "cat": "Utilities",
+            "url": "https://i.ibb.co/mhcXJ7V/ic-plug-in-144dp.png"
+        },
+        {
+            "cat": "Shopping",
+            "url": "https://i.ibb.co/27D9vtB/ic-shopping-144dp.png"
+        },
+        {
+            "cat": "Smart Home",
+            "url": "https://i.ibb.co/L97K4kb/ic-smart-home-144dp.png"
+        },
+        {
+            "cat": "Lifestyle",
+            "url": "https://i.ibb.co/HnjstSn/ic-sport-run-144dp.png"
+        },
+        {
+            "cat": "Sports",
+            "url": "https://i.ibb.co/9tS6X8s/ic-sports-144dp.png"
+        },
+        {
+            "cat": "Productivity",
+            "url": "https://i.ibb.co/jHKx1vq/ic-timer-144dp.png"
+        },
+        {
+            "cat": "Travel & Transportation",
+            "url": "https://i.ibb.co/qp6b0gs/ic-transportation-144dp.png"
+        },
+        {
+            "cat": "Weather",
+            "url": "https://i.ibb.co/3Rzdqgr/ic-weather-144dp.png"
+        }
+    ]
+}

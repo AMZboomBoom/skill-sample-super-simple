@@ -1,0 +1,36 @@
+{
+    "type": "APL",
+    "version": "2023.2",
+    "mainTemplate": {
+        "parameters": [
+            "dataArray"
+        ],
+        "bind": [
+            {
+                "name": "category",
+                "value": "UNKNOWN"
+            }
+        ],
+        "items": [
+            {
+                "type": "Container",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "height": "100vh",
+                "width": "100vw",
+                "items": [
+                    {
+                        "type": "Image",
+                        "when": "${ category == data.cat }",
+                        "height": "100%",
+                        "width": "100%",
+                        "source": "${data.url}",
+                        "scale": "none",
+                        "alignSelf": "center"
+                    }
+                ],
+                "data": "${dataArray}"
+            }
+        ]
+    }
+}

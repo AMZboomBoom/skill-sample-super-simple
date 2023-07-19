@@ -1,0 +1,53 @@
+{
+    "manifest": {
+        "id": "super-simple-CATEGORY",
+        "version": "1.0.0",
+        "installStateChanges": "AUTOMATIC",
+        "updateStateChanges": "AUTOMATIC",
+        "presentationDefinitions": [
+            {
+                "url": "presentations/default.tpl"
+            }
+        ],
+        "appliesTo": "${viewport.mode == 'HUB'}"
+    },
+    "packageVersion": "1.0",
+    "packageType": "APL_PACKAGE",
+    "publishingInformation": {
+        "schemaVersion": "1.0",
+        "locales": {
+            "en-US": [
+                {
+                    "targetViewport": "WIDGET_M",
+                    "metadata": {
+                        "name": "CHANGE_CATEGORY",
+                        "description": "WG2.0 Category Test Widget",
+                        "keywords": [
+                            "CHANGE_CATEGORY",
+                            "test widget"
+                        ],
+                        "iconUri": "CHANGE_Uri",
+                        "previews": [
+                            "CHANGE_preview"
+                        ]
+                    }
+                },
+                {
+                    "targetViewport": "WIDGET_XL",
+                    "metadata": {
+                        "name": "CHANGE_CATEGORY",
+                        "description": "WG2.0 Category Test Widget Cinematic",
+                        "keywords": [
+                            "CHANGE_CATEGORY",
+                            "test widget"
+                        ],
+                        "iconUri": "CHANGE_Uri",
+                        "previews": [
+                            "CHANGE_preview"
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}
