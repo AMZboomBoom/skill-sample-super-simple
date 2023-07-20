@@ -12,9 +12,6 @@
             "type": "ALEXA_DATASTORE_PACKAGEMANAGER"
           },
           {
-            "type": "ALEXA_DATA_STORE"
-          },
-          {
             "supportedViewports": [
               {
                 "maxHeight": 540,
