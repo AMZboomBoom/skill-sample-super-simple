@@ -20,30 +20,30 @@
                 {
                     "targetViewport": "WIDGET_M",
                     "metadata": {
-                        "name": "CHANGE_CATEGORY",
+                        "name": "WG2: CHANGE_CATEGORY",
                         "description": "WG2.0 Category Test Widget",
                         "keywords": [
                             "CHANGE_CATEGORY",
                             "test widget"
                         ],
-                        "iconUri": "CHANGE_Uri",
+                        "iconUri": "https://i.ibb.co/2kdMVcr/ic-help-144dp.png",
                         "previews": [
-                            "CHANGE_preview"
+                            "https://i.ibb.co/2kdMVcr/ic-help-144dp.png"
                         ]
                     }
                 },
                 {
                     "targetViewport": "WIDGET_XL",
                     "metadata": {
-                        "name": "CHANGE_CATEGORY",
+                        "name": "WG2: CHANGE_CATEGORY",
                         "description": "WG2.0 Category Test Widget Cinematic",
                         "keywords": [
                             "CHANGE_CATEGORY",
                             "test widget"
                         ],
-                        "iconUri": "CHANGE_Uri",
+                        "iconUri": "https://i.ibb.co/2kdMVcr/ic-help-144dp.png",
                         "previews": [
-                            "CHANGE_preview"
+                            "https://i.ibb.co/2kdMVcr/ic-help-144dp.png"
                         ]
                     }
                 }
