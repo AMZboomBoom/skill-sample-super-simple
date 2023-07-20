@@ -116,7 +116,8 @@
         "en-US": {
           "description": "WG2.0 Category Test Widget",
           "examplePhrases": [
-            "test widget"
+            "Alexa, open super simple",
+            "stop bothering me"
           ],
           "keywords": [],
           "name": "CHANGE_CATEGORY",
