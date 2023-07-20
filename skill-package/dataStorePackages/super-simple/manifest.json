@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "id": "super-simple-CATEGORY",
+        "id": "super-simple",
         "version": "1.0.0",
         "installStateChanges": "AUTOMATIC",
         "updateStateChanges": "AUTOMATIC",
